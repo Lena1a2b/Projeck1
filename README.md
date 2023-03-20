@@ -1,2 +1,2 @@
-# Projeck1
+# Project1
 Автотесты к сайту Skillfacrory
