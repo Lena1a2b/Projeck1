@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dc19ca6-5dae-4fe7-8d56-60a85ff33622" name="Default Changelist" comment="Тесты проверки сайта Skillfactory.&#10;Реализовано для Win 7x32">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main11Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main12Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main13Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main15Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main16Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main17Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main18Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main19Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main20Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Main9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Project1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/Project1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main10Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main11Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main12Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main13Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main14Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main15Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main16Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main17Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main18Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main19Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main1Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main20Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main3Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main4Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main5Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main6Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main7Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main8Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Main9Test.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="165" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Asus\IdeaProjects\Project1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2MpQ9NeVNsqrB27Xg8DT5t89biP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="XPATH" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Main20Test.main">
+    <configuration name="Main16Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main16Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main17Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main17Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main18Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main18Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main19Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main19Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main20Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Main20Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Main20Test.main" />
+        <item itemvalue="JUnit.Main19Test.main" />
+        <item itemvalue="JUnit.Main18Test.main" />
+        <item itemvalue="JUnit.Main17Test.main" />
+        <item itemvalue="JUnit.Main16Test.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dc19ca6-5dae-4fe7-8d56-60a85ff33622" name="Default Changelist" comment="" />
+      <created>1678461891352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678461891352</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Тесты проверки сайта Skillfactory.&#10;Реализовано для Win 7x32" />
+    <option name="LAST_COMMIT_MESSAGE" value="Тесты проверки сайта Skillfactory.&#10;Реализовано для Win 7x32" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Project1$Main1.ic" NAME="Main1 Coverage Results" MODIFIED="1679001597273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
